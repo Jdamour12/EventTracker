@@ -129,3 +129,9 @@ table {
     border-collapse: collapse;
     border-spacing: 0;
 }
+
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
